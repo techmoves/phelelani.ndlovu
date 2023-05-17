@@ -1,49 +1,24 @@
-Hi There !!✌️
-
-
-https://github.com/techmoves/phelelani.ndlovu/assets/110924992/13a3f324-51c8-464e-82b6-e4334ed61490
-
-
-
-const Phelelani.Ndlovu = {
-  looking For: "Front-end developer" || "Full-stack web developer",
-  
-  pronouns: ["he", "him"],
-  
-  code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Semantic UI, Bootstrap, 
-  
-  Tailwind CSS, Material UI],
-  
-  askMeAbout: [Tech soccer and music],
-  
-  challenge: "I am honing my React skills and picking up TypeScript",
-  
-  funFacts: ['I have 1 year of remote work experience with devs 
-  
-  from all over the world', 
-  
-  'Tech is future,i'm happy to be part of it!']
-}
-
-
-
-
-let's connect:
-https://twitter.com/Dopezonke_
-
-https://www.linkedin.com/in/phelelani-ndlovu-883916160/
-
-https://github.com/techmoves/
 
 
 
 
 
-Tech Stack & version Control:
+<h1 align="center">Hi 👋, I'm Phelelani</h1>
+<h3 align="center">A passinate Full Stack Web Developer from South Africa</h3>
 
 
+<!-- https://github.com/techmoves/phelelani.ndlovu/assets/110924992/13a3f324-51c8-464e-82b6-e4334ed61490 -->
 
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/phelelani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="phelelani" height="30" width="40" /></a>
+<a href="https://twitter.com/dopezonke" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dopezonke" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/phelelani-ndlovu-883916160/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/phelelani-ndlovu-883916160/" height="30" width="40" /></a>
+<a href="https://instagram.com/muh_condes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muh_condes" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
 
-GitHub Stats:
